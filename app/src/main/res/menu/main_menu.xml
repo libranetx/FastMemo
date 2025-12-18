@@ -14,10 +14,10 @@
         <menu>
             <item
                 android:id="@+id/action_sort_date_desc"
-                android:title="Date (Newest First)" />
+                android:title="Newest First" />
             <item
                 android:id="@+id/action_sort_date_asc"
-                android:title="Date (Oldest First)" />
+                android:title="Oldest First" />
             <item
                 android:id="@+id/action_sort_category"
                 android:title="Category" />
